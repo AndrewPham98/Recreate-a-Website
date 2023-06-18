@@ -1,0 +1,25 @@
+h1 {
+    color:green;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+
+    @media (min-width: 900px;)
+}
+
+img {
+    padding: 5px;
+}
